@@ -36,7 +36,7 @@ lemonade, but we need to add an overloaded version of this method that allows
 the user to sell a special lemonade where the user has selected the amount of
 lemons, sugar, and ice to use.
 
-Remmember that method overloading allows us to define a new method with the
+Remember that method overloading allows us to define a new method with the
 same name as an existing method, but with different parameters.  In this case,
 we want to add a new method called `sellLemonade` that takes three parameters
 (in this order!):
